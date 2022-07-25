@@ -1,5 +1,5 @@
 # ShodanJARMProject
-Look up JARM Signatures on Shodan
+Bulk Text File Look up JARM Signatures on Shodan
 
 Fill Shodan API key in env file.
 
